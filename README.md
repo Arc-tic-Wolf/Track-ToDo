@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 ### `npm run server`
 
 Runs built-in json-server as a mock backend which loads data into db.json and then onto the main application.
-Open [http://localhost:3000](http://localhost:5000) to view it in the browser.
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
